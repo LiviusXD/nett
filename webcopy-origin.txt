@@ -1,0 +1,52 @@
+Uri: https://www.planoflix.online/
+File Name: C:\Downloaded Web Sites\www.planoflix.online\index.htm
+Content Type: text/html
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/1-f0a4d89613b83ce8fb5729758669b4db.jpg
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\1-f0a4d89613b83ce8fb5729758669b4db.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-38caf9a78e2de9b418d3b93217f91fae.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-38caf9a78e2de9b418d3b93217f91fae.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-9fc604232ad1157cbaaed41d49f6f42b.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-9fc604232ad1157cbaaed41d49f6f42b.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-fd19f1590dac48dbcdabb2fcbc709cad.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-fd19f1590dac48dbcdabb2fcbc709cad.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-b06193e90e2add7492cd800448e9fbaa.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-b06193e90e2add7492cd800448e9fbaa.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-407b7d8d03bba1fbd126150d8f1b146b.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-407b7d8d03bba1fbd126150d8f1b146b.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-35aa322075ca59b624cfd43d3a3dcd6c.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-35aa322075ca59b624cfd43d3a3dcd6c.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-b2142e6baff2e074e2814d08045da096.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-b2142e6baff2e074e2814d08045da096.png
+Content Type: image/png
+
+Uri: https://cdn.greatsoftwares.com.br/arquivos/paginas_editor/42253-53f91f4d6b700e74054382e38cd745f3.png
+File Name: C:\Downloaded Web Sites\www.planoflix.online\arquivos\paginas_editor\42253-53f91f4d6b700e74054382e38cd745f3.png
+Content Type: image/png
+
+Uri: https://cdn.greatapps.com.br/_greatpages/default.ico
+File Name: C:\Downloaded Web Sites\www.planoflix.online\_greatpages\default.ico
+Content Type: image/x-icon
+
+Uri: https://cdn.greatsoftwares.com.br/
+File Name: C:\Downloaded Web Sites\www.planoflix.online\index.htm.xml
+Content Type: application/xml
+
+Uri: https://pay.planoflix.com/BNjzgPyLaY03M78
+File Name: C:\Downloaded Web Sites\www.planoflix.online\BNjzgPyLaY03M78.json
+Content Type: application/json
+
